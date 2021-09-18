@@ -96,7 +96,7 @@
                 <div class="box-3 float-container">
                     <img src="images/web.jpg" alt="Web Development" class="img-responsive img-curve">
 
-                    <h3 class="text-center text-red boxing">Web Development</h3>
+                    <h3 class="text-center text-red boxing">Web Dev</h3>
                 </div>
             </a>
 
