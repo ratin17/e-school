@@ -1,3 +1,8 @@
+<?php
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,25 +30,25 @@
             <div class="menu text-right">
                 <ul>
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="index.php">Home</a>
                     </li>
                     <li>
-                        <a href="categories.html">Categories</a>
+                        <a href="categories.php">Categories</a>
                     </li>
                     <li>
-                        <a href="courses.html">Courses</a>
+                        <a href="courses.php">Courses</a>
                     </li>
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="contact-form/contact.php">Contact</a>
                     </li>
                     <li>
                         <a href="about.html">About</a>
                     </li>
                     <li>
-                        <a href="about.html">Log In</a>
+                        <a href="log-res/login-res.html">Log In</a>
                     </li>
                     <li>
-                        <a href="about.html">Register</a>
+                        <a href="log-res/login-res.html">Register</a>
                     </li>
                 </ul>
             </div>
@@ -67,15 +72,15 @@
     <!-- Course sEARCH Section Ends Here -->
 
     <!-- CAtegories Section Starts Here -->
-    <section class="categories">
+    <section class="categories" style="background-color: #FFCBA4">
         <div class="container">
             <h2 class="text-center">Explore Our Courses</h2>
 
             <a href="#">
-                <div class="box-3 float-container">
+                <div class="box-3 float-container ">
                     <img src="images/ds.jpg" alt="Data science" class="img-responsive img-curve">
 
-                    <h3 class="float-text text-red">DS</h3>
+                    <h3 class="text-center text-red boxing">Data Science</h3>
                 </div>
             </a>
 
@@ -83,7 +88,7 @@
                 <div class="box-3 float-container">
                     <img src="images/dsa.jpg" alt="Data Structures & Algorithms" class="img-responsive img-curve">
 
-                    <h3 class="float-text text-red">DSA</h3>
+                    <h3 class="text-center text-red boxing">DSA</h3>
                 </div>
             </a>
 
@@ -91,7 +96,7 @@
                 <div class="box-3 float-container">
                     <img src="images/web.jpg" alt="Web Development" class="img-responsive img-curve">
 
-                    <h3 class="float-text text-red">Web</h3>
+                    <h3 class="text-center text-red boxing">Web Development</h3>
                 </div>
             </a>
 
